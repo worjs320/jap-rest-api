@@ -1,2 +1,2 @@
-# jap-rest-api
+# jpa-rest-api
 Rest Api server using jpa, h2 database
